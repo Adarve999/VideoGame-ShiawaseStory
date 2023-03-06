@@ -17,7 +17,7 @@
 
 Con el fin de fomentar un ambiente abierto y acogedor, nosotros como contribuyentes
 y desarrolladores de este proyecto nos comprometemos a ayudar a cualquiera que quiera colaborar
-con nosotros, via Issue solicitando información o vía email(davidcawork@gmail.com).
+con nosotros, via Issue solicitando información o vía email(ruben.adarveee@gmail.com).
 
 
 ## Attribution
